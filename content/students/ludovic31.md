@@ -17,8 +17,7 @@ short_description: je me suis inscirs dans cette formation car je pense que c'es
 
 # Ne modifiez pas le paramètre 'template', seulement la description
 template: students
-description:
-    Je suis dessinateur electrique aeronautique chez expleo depuis 5ans. je reviens d'une formation dans le monde du ski, a cause du covid elle a étét arrété prematurement meme si je l'ai obtenue. Je peux être quelqu’un de stressé pour les nouvelles choses (comme ce Mac ou cette formation), je gère ce stresse en parlant et en ruminant jusqu’a ce que ça passe. Cela peut prendre le temps de la formation, comme peut durer 2j le temps que tout ce mette en place.
+description: Je suis dessinateur electrique aeronautique chez expleo depuis 5ans.
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
