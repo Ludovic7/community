@@ -21,7 +21,7 @@ description: Je suis dessinateur electrique aeronautique chez expleo depuis 5ans
 
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
-image:ludovic31.png
+image: ludovic31.png
 
 # Change this to True when you do you pull request.
 public: True
